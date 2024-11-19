@@ -44,7 +44,7 @@ Na prática, os alunos aprenderam a **configurar uma instância de banco de dado
 
 ---
 
-## Resumo Informativo de Cada Etapa (até 350 caracteres)
+## Resumo Informativo de Cada Etapa
 
 ### Etapa 1: Introdução à Computação em Nuvem e Localizando Serviços por Categoria
 A primeira etapa apresenta os conceitos básicos da computação em nuvem e como navegar no **Azure Portal**. Ensina a localizar serviços por categoria, como computação e armazenamento, preparando os alunos para configurar recursos de forma eficiente na plataforma.
